@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<snippets/>
+<snippets>
+    <snippet group="C++" trigger="ptrdef" id="" complement="" removed="false" modified="false">typedef std::shared_ptr&lt;$name$&gt; $name$Ptr;</snippet>
+</snippets>
