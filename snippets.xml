@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <snippets>
+    <snippet group="C++" trigger="forc" id="" complement="foric" removed="false" modified="false">for (int i = 0, l = $total$; i &lt; l; ++i) {
+    $$
+}</snippet>
     <snippet group="C++" trigger="ptrdef" id="" complement="" removed="false" modified="false">typedef std::shared_ptr&lt;$name$&gt; $name$Ptr;</snippet>
 </snippets>
